@@ -1,0 +1,7 @@
+{
+    "port": "COM3",
+    "board": "arduino:avr:leonardo",
+    "sketch": "footswitch.ino",
+    "programmer": "arduino:arduinoasisp",
+    "output": "../build/"
+}
