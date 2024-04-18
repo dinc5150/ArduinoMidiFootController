@@ -1,7 +1,7 @@
 {
     "port": "COM3",
     "board": "arduino:avr:leonardo",
-    "sketch": "footswitch.ino",
+    "sketch": "MidiFootswitch.ino",
     "programmer": "arduino:arduinoasisp",
     "output": "../build/"
 }
